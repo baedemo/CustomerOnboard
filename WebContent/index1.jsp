@@ -26,7 +26,7 @@
 					src="<%=request.getContextPath()%>/images/CSC_logo.png"
 					border="0" style="height: 80px ; width: 150px ; position: fixed; top: 0px; left: 10px; "/>   </td>   
 		</tr> 
-<!-- commennt -->
+
 
 </table>
 	
